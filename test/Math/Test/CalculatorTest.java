@@ -38,11 +38,11 @@ public class CalculatorTest {
     }
     
     
-    @Test
-    public void getEquation_Test(){
-	assertEquals(0,Calculator.equation(2, 4, 1));
-	assertEquals(1,Calculator.equation(4, 4, 1));
-	assertEquals(0,Calculator.equation(3, 4, 1));
-	assertEquals(2,Calculator.equation(5, 4, 1));
-    }
+//    @Test
+//    public void getEquation_Test(){
+//	assertEquals(0,Calculator.equation(2, 4, 1));
+//	assertEquals(1,Calculator.equation(4, 4, 1));
+//	assertEquals(0,Calculator.equation(3, 4, 1));
+//	assertEquals(2,Calculator.equation(5, 4, 1));
+//    }
 }
